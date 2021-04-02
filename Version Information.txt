@@ -1,0 +1,27 @@
+MATLAB Version: 9.9.0.1524771 (R2020b) Update 2
+MATLAB License Number: 820543
+Operating System: Microsoft Windows 10 Enterprise Version 10.0 (Build 18363)
+Java Version: Java 1.8.0_202-b08 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+-----------------------------------------------------------------------------------------------------
+MATLAB                                                Version 9.9         (R2020b)                
+Simulink                                              Version 10.2        (R2020b)                
+Audio Toolbox                                         Version 2.3         (R2020b)                
+Bioinformatics Toolbox                                Version 4.15        (R2020b)                
+Curve Fitting Toolbox                                 Version 3.5.12      (R2020b)                
+DSP System Toolbox                                    Version 9.11        (R2020b)                
+EEGLAB Toolbox to process EEG data                    Version 2020_0                     
+FieldTrip                                             Version unknown     www.fieldtriptoolbox.org
+Image Processing Toolbox                              Version 11.2        (R2020b)                
+Optimization Toolbox                                  Version 9.0         (R2020b)                
+Signal Processing Toolbox                             Version 8.5         (R2020b)                
+Statistics and Machine Learning Toolbox               Version 12.0        (R2020b)                
+Symbolic Math Toolbox                                 Version 8.6         (R2020b)                
+Wavelet Toolbox                                       Version 5.5         (R2020b)
+
+
+EEGLAB: adding "ERPLAB" v8.10 (see >> help eegplugin_erplab)
+EEGLAB: adding "ICLabel" v1.2.6 (see >> help eegplugin_iclabel) 
+EEGLAB: adding "clean_rawdata" v2.2 (see >> help eegplugin_clean_rawdata)
+EEGLAB: adding "dipfit" v3.3 (see >> help eegplugin_dipfit) 
+EEGLAB: adding "fieldtrip-" to the path; subfolders (if any) might be missing from the path
+EEGLAB: adding "firfilt" v2.4 (see >> help eegplugin_firfilt)
